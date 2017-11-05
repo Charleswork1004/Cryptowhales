@@ -1,7 +1,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.cryptosasa.HomeActivity">
+    tools:context="com.cryptowhales.HomeActivity">
     <item
         android:id="@+id/action_about_id"
         android:orderInCategory="100"

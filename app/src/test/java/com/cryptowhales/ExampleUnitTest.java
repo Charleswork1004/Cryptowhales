@@ -1,4 +1,4 @@
-package com.cryptosasa;
+package com.cryptowhales;
 
 import org.junit.Test;
 

@@ -1,8 +1,4 @@
-package com.cryptosasa;
-/**
- * Created by Levit Nudi on 14/10/17.
- */
-
+package com.cryptowhales;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
