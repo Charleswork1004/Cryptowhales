@@ -17,8 +17,8 @@ This project has 5 java classes
 
 # Screen Shots
 
-![screen1](screen_shots/cryptowhales_logo.png "cryptowhales_logo")
-![screen2](screen_shots/Screenshot_20171021-133425.png "Conversion page Bitcoin")
-![screen4](screen_shots/Screenshot_20171021-133446.png "Conversion page Ethereum")
+[screen1](screen_shots/cryptowhales_logo.png "cryptowhales_logo")
+[screen2](screen_shots/Screenshot_20171021-133425.png "Conversion page Bitcoin")
+[screen4](screen_shots/Screenshot_20171021-133446.png "Conversion page Ethereum")
 
 
