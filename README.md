@@ -8,9 +8,9 @@ User should get conversion result.
 
 # Classes
 This project has 5 java classes
-1. AboutActivity
-2. HomeActivity
-3. ConversionActivity
+1. About
+2. Home
+3. Conversion
 4. Currency
 5. CurrencyAdapter 
 
